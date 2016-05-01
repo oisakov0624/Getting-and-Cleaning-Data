@@ -1,4 +1,6 @@
- #CookBook for Getting and Cleaning Data Project.
+ 
+ # CookBook for Getting and Cleaning Data Project.
+ 
  Tidy_data.txt file contains total of 81 Variables.
  
  Subject contains 30 levels, Activity contains 6 levels.
