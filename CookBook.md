@@ -1,5 +1,6 @@
- 
- # CookBook for Getting and Cleaning Data Project.
+ Code book for Getting and Cleaning Data Project.
+=========
+
  
  Tidy_data.txt file contains total of 81 Variables.
  
