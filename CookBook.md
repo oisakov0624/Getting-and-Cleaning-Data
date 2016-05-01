@@ -1,5 +1,9 @@
+ #CookBook for Getting and Cleaning Data Project.
+ Tidy_data.txt file contains total of 81 Variables.
  
- Following variables are listed in the dataset.
+ Subject contains 30 levels, Activity contains 6 levels.
+ 
+ #Following variables are listed in the dataset.
  
  [1] "subject"                         "Activity_Label"                  "tBodyAcc.mean...X"               "tBodyAcc.mean...Y"              
  [5] "tBodyAcc.mean...Z"               "tBodyAcc.std...X"                "tBodyAcc.std...Y"                "tBodyAcc.std...Z"               
@@ -23,4 +27,4 @@
 [77] "fBodyBodyGyroMag.std.."          "fBodyBodyGyroMag.meanFreq.."     "fBodyBodyGyroJerkMag.mean.."     "fBodyBodyGyroJerkMag.std.."     
 [81] "fBodyBodyGyroJerkMag.meanFreq.."
 
-Subject contains 30 levels, Activity contains 6 levels.
+
